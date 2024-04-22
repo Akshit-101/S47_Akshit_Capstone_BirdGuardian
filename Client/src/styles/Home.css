@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #de9440;
+    border: #977e63 5px solid;
+}
+.nav{
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: 900;
+}
+.imageOfTop{
+    
+}
+.photo{
+    width: 100%;
+    height: 80vh;
+}
