@@ -1,12 +1,16 @@
 import React from "react";
-
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import Store from "./pages/Store";
 
 
 const app = () => {
   return (
     <div>
       <h1>
-      Bird_Guardian
+      <Home />
+      {/* <Login />
+      <Store /> */}
       </h1>
     </div>
   )
